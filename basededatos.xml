@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE basededatos SYSTEM "basededatos.dtd">
+<basededatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="basededatos.xsd">
+    <artistas>
+        <artista id="a01">
+            <nombre_artistico>Akon</nombre_artistico>
+            <biografia>Hijo del percusionista Mor Thiam, Akon creció en una familia dedicada a la música y aprendió a tocar varios instrumentos, entre ellos el yembe. Nació en San Luis, Misuri, por lo que no tuvo ningún problema de inmigración, pero vivió en Dakar, Senegal, hasta los siete años de edad. Cabe destacar que su familia era musulmana, aunque él no siguió la religión musulmana. Durante un tiempo estuvo entre Estados Unidos y Senegal, Akon se asentó definitivamente en el país norteamericano a los 15 años de edad, cuando fijó su residencia en Jersey City, Nueva Jersey.
+			También conoció la criminalidad de las calles y llegó en un par de ocasiones a la cárcel. Akon utilizó ese tiempo para canalizar sus conocimientos e intuiciones musicales. A su salida, realizó unas maquetas que, gracias a las gestiones de su mánager Devyne Stephens, encontraron un paso a los despachos de Universal. Así fue cómo se gestó su debut, ‘Trouble’, aparecido en 2004. En él se encontraba el éxito ‘Locked Up’, directamente inspirado en el tiempo que pasó entre rejas, así como ‘Guetto’, ‘Bananza’ o ‘Lonely’, canciones todas en las que se fraguaba el estilo peculiar de Akon que fusiona rap de las calles con elegantes melodías de soul, producción para el club y ritmos africanos. El disco fue multi-platino, y llegó a vender más de 3 millones de copias en el mundo.
+			‘Guetto’ fue remezclada posteriormente para la radio, incluyendo reconocidísimos versos de los rappers 2Pac, The Notorious B.I.G. y artistas marroquíes afincados en Holanda como Yesser Rochdi, conocido artísticamente como YES-R y Ali B. Y, gracias a la popularidad ganada, hizo una aparición estelar en ‘Soul Survivor’, con Young Jeezy. Otras colaboraciones han tenido de co-protagonistas a R. Kelly, Obie Trice, Elton John, Daddy Yankee y Gwen Stefani, con la que ha compuesto un tema en su más reciente disco, ‘The Sweet Escape’ (Interscope, 2006). Además, se ha dado tiempo para crear su propio sello (Konvict Muzik), en donde publica a T-Pain y Rozonda “Chilli” Thomas.
+			</biografia>
+            <descripcionartista>Aliaune Damala Badara Thiam, más conocido como Akon (San Luis, Misuri, 16 de abril de 1973) es un cantante estadounidense-senegalés de hip hop, Pop y RandB, compositor, rapero, actor y productor musical. Saltó a la fama en 2004 con el single Locked Up de su primer álbum Trouble. En su segundo disco, Konvicted, se incluía el single Smack That, por el que fue nominado a los Grammy. Es el fundador de Konvict Muzik y Kon Live Distribution. Akon es conocido por cantar coros y ha colaborado en más de 175 canciones, 40 de ellas incluidos en el Billboard Hot 100. Cantó en la canción benéfica We Are The World 25 For Haití.  
+			</descripcionartista>
+        </artista>
+        <artista id="a02">
+            <nombre_artistico>Lil Wayne</nombre_artistico>
+            <biografia>Dwayne Michael Carter, Jr. (nacido el 27 de septiembre 1982 en la ciudad de Nueva Orleans, Estados Unidos), mejor conocido por su nombre artístico Lil Wayne, es un rapero estadounidense ganador de cuatro Grammys. A la edad de nueve años, Lil Wayne fue contratado por el sello discográfico Cash Money Records como el miembro más joven del mismo, para formar parte del dúo, The BG'z, junto con B.G. . En 1997, Lil Wayne se unió al grupo Hot Boys, que incluía a los raperos Juvenile, BG, y Young Turk. Hot Boys debutó con Get It How U Live! ese mismo año. Lil Wayne obtuvo la mayor parte de su éxito con el álbum de mayores ventas del grupo: Guerrilla Warfare lanzado en 1999. También en 1999, Lil Wayne lanzó su primer disco de platino Tha Block Is Hot, vendiendo más de un millón de copias en los EE.UU. Y también cantó con la famosa TINGUI Sánchez en los Grammys Lil Wayne alcanzó la mayor popularidad en 2004 con The Carter, que incluía el single Go D.J. Wayne también apareció en el sencillo de las Destiny's Child Soldier de ese año. En 2005, se publicóTha Carter II, la secuela de Tha Carter. Su álbum más exitoso, Tha Carter III, fue lanzado en 2008 y vendió más de un millón de copias en los EE.UU. la primera semana de lanzamiento. Incluye su sencillo número uno Lollipop, con Static Major. También incluye los singles A Milli y Got Money con T-Pain y ganó el premio Grammypor Mejor Álbum de Rap. Lil Wayne lanzó su álbum debut de rock, Rebirth, en 2010- Aunque el recibimiento de la crítica no fue positivo, el álbum fue disco de oro. En marzo de 2010, Lil Wayne entró en prisión para cumplir una pena de cárcel de ocho meses en Nueva York tras ser declarado culpable de posesión ilícita de un arma derivada de un incidente ocurrido en julio de 2007. Durante su estancia en prisión, lanzó un nuevo álbum titulado I Am Not A Human Being en septiembre de 2010, con artistas de Young Money, tales como Drake, Nicki Minaj, Lil Twist y Tyga. Fue puesto en libertad el 29 de agosto de 2011. Su noveno álbum de estudio y el primero desde que fue liberado de prisión es Tha Carter IV. El álbum incluye canciones como 6 Foot 7 Foot, con Cory Gunz, How To Love y She Will, conDrake. Se vendieron 964.000 copias en los EE.UU. en su primera semana, batió el record de ventas digitales en iTunes Store y es certificado triple platino por sus ventas internacionales.
+			</biografia>
+            <descripcionartista>Dwayne Michael Carter, Jr. nació en el barrio de Hollygrove en Nueva Orleans, Estados Unidos, el 27 de septiembre de 1982. Su madre tenía diecinueve años cuando dio a luz y sus padres se divorciaron cuando él contaba dos años de edad. Su padre los abandonó finalmente a los 5 años, razón está la de no tener padre, que esgrime el rapero para haberse cambiado el nombre de pila al quitar la D inicial de Dwayne.
+			Escribió su primera canción de rap a los ocho años. En 1991 conoció al rapero Bryan Williams(Birdman), dueño de la discográfica Cash Money Records, con la cual editarían su primer disco en colaboración, True Story con el rapero B. G., el proyecto se llamaría The B.G.'z, Carter contaba solo con once años. A los trece años, se disparó accidentalmente con una pistola y un policía tuvo que llevarlo de urgencia al hospital. A pesar de ser un brillante alumno, inscrito además en un club de teatro, dejó la escuela para dedicarse de lleno a su carrera musical.
+			Lil Wayne es estadounidense. Wayne tiene una hija llamada Reginae nacida en 1998 con su exmujer Antonia Toya Carter.
+			En octubre de 2008, nació su primer hijo varón Dwayne Michael Carter III, el cual tuvo con una mujer llamada Sarah Vivan.
+			Un año después, en 2009, tuvo su tercer y cuarto hijo, uno con la actriz Lauren London y otro con la cantante Nivea. Los hijos se llaman Cameron Carter London y Neal Carter Nash, respectivamente. En una entrevista en CBS con Katie Couric, Wayne describe por qué se le conoce con el nombre de Wayne en lugar de su nombre de pila, Dwayne. Carter explicó, se me cayó la D porque ese es el nombre de mi padre y él no está ni nunca ha estado en mi vida. Así que no quiero ser Dwayne, prefiero ser Wayne. Couric le preguntó si su padre sabía esto y Wayne respondió lo sabe ahora, con una sonrisa irónica.
+			Wayne le disparó a su padrastro cuando estaba golpeando a su madre, tras este hecho Wayne pasó tiempo en un correccional de menores.
+			Lil Wayne se enteró a la edad de once años de que el que él creía que era su padre era su padrastro, esto fue un golpe muy duro para él.
+			Lil Wayne tiene un hermano menor llamado Semaj Davis, hijo de su madre llamada Jocita Carter. Actualmente ha contraído nupcias con Valeria Segura una chica cristiana de origen Mexicano.
+			Lil Wayne es un cristiano practicante que toma tiempo para leer la biblia con regularidad. Mientras se reproduce en Newark Symphony Hall, Lil Wayne afirma su creencia en Dios y Su Hijo, Jesús. De acuerdo con su ID interno Rikers Island y registros de la cárcel, Wayne es específicamente cristiano.
+			</descripcionartista>
+        </artista>
+        <artista id="a03">
+            <nombre_artistico>Eminem</nombre_artistico>
+            <biografia>Nació en St. Joseph, Misuri, siendo el hijo de Marshall Bruce Mathers II y Debbie Nelson. Es de ancestros escoceses,  ingleses y, más lejanos, suizos y alemanes. Poco después de su nacimiento, su padre abandonó a su familia. Hasta los doce años Mathers y su madre se trasladaron en varias ciudades y pueblos de Misuri incluyendo St. Joseph, Savannah y Kansas City antes de ir a Warren, Míchigan, un suburbio de Detroit. Después de adquirir una copia del álbum de Beastie Boys, al ser un preadolescente, Mathers se interesó mucho en el hip hop. Interpretó de forma aficionada rap a los catorce años bajo el seudónimo de MandM, entrando en un grupo llamado Bassmint Productions y lanzando su primer EP llamado Steppin' Onto The Scene. Más tarde cambiaron su nombre a Soul Intent y alrededor de 1995 lanzaron su primer sencillo llamado Fuckin' Backstabber bajo el sello discográfico Mashin' Duck Records. A pesar de que fue inscrito en la escuela Lincoln High School en Warren frecuentemente participó en las batalla de freestyle en la escuela Osborn High School en la ciudad obteniendo la aprobación del público de underground hip hop.  Después de repetir el noveno grado tres veces debido a ausencias injustificadas abandonó la escuela a la edad de 17 años. 
+			Cada dos o tres meses Eminem cambiaba de colegio y eso hacía más difícil hacer amigos y llevar una vida normal. En noveno grado Marshall decide que estudiar no es lo suyo. Comienza a trabajar posteriormente como cocinero de la parrilla Gilbert’sLodge. Marshall intenta introducirse en la música profesional pues tiene clara su intención profesional. Pero todavía debía romper la peor barrera de las calles en el mundo del rap: el color de su piel. Eminem está dispuesto a salir adelante expresando lo que siente, a pesar de los prejuicios.
+			</biografia>
+            <descripcionartista>Marshall Bruce Mathers III (17 de octubre de 1972, Saint Joseph, Misuri), conocido por su nombre artístico Eminem(estilizado a EMINƎM), es un MC, rapero,productor discográfico y actorestadounidense. Se hizo popular en 1999 con su álbum de estudio The Slim Shady LP, que ganó un premio Grammy por Mejor Álbum de Rap. Su siguiente álbum, The Marshall Mathers LP, se convirtió en el segundo álbum más vendido de hip hop en la historia solo detrás de Life After Death de The Notorious B.I.G. y el más rápido en los Estados Unidos. Eminem ganó una mayor popularidad, donde se destaca su propio sello discográfico Shady Records, y llevó a su grupo D12 a un reconocimiento general.
+			The Marshall Mathers LP y su tercer álbum, The Eminem Show, también ganaron premios Grammy en 2001, y en 2003, ganó el Óscar a la mejor canción original por el sencillo Lose yourself, de la película 8 Millas, en la que también interpretó el papel principal. Entonces Eminem comenzó un receso después de viajar en 2005 por la gira de su álbumEncore, y después de varios años lanzó su quinto y sexto álbum titulado Relapse, el 15 de mayo de 2009 y Recovery, el 22 de junio de 2010. Eminem ha vendido más de 90 millones de álbumes en todo el mundo, convirtiéndose en uno de los raperos más vendidos en la historia y es el artista de mayor ventas en la década del 2000. Además ocupó el puesto número 82 en la lista de Los 100 mejores artistas de todos los tiempos según la revista Rolling Stone, y posicionándose como el 2 mejor rapero solista, después de Dr. Dre, y el 5 mejor rapero (incluyendo grupos), después de los Beastie boys, Dr.Dre, Run–D.M.C. y Public Enemy. También fue llamado el mejor rapero por Vibe Magazine, superando a 2pac y Biggie Smalls. Fue llamado Artist of the Decade (Artista de la década) por la revista Rolling Stone. En total, incluyendo su trabajo con D12, Eminem ha logrado 7 álbumes #1 en la lista Billboard aunque ninguno debutó en el número 1, además catorce sencillos #1 alrededor del mundo detrás de artistas como 50 cent, Snoop Dogg, Dr. Dre y Beastie boys por ejemplo con más de 17 sencillos #1 hasta ahora. Según la revista Billboard, Eminem tiene dos de sus álbumes entre los 5 álbumes más vendidos de la década, transformándose en el artista más vendido de esta. Su nombre artístico proviene de la unión de las iniciales de Marshall Mathers: M and M (‘M y M’, en inglés).
+			</descripcionartista>
+        </artista>
+    </artistas>
+    <canciones>
+        <cancion id="c01">
+            <titulocancion>Be with You</titulocancion>
+            <duracion>3:51</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al01"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c02">
+            <titulocancion>Right Now (Na Na Na)</titulocancion>
+            <duracion>4:01</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al01"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c03">
+            <titulocancion>I'm so paid</titulocancion>
+            <duracion>4:24</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al01"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c04">
+            <titulocancion>Shake Down</titulocancion>
+            <duracion>3:52</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al02"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c05">
+            <titulocancion>Smack That</titulocancion>
+            <duracion>3:32</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al02"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c06">
+            <titulocancion>Hold Up</titulocancion>
+            <duracion>4:11</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al03"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c07">
+            <titulocancion>I Am Not a Human Being</titulocancion>
+            <duracion>4:05</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al03"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c08">
+            <titulocancion>Popular</titulocancion>
+            <duracion>4:03</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al03"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c09">
+            <titulocancion>Walk In</titulocancion>
+            <duracion>5:20</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al04"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c10">
+            <titulocancion>Go D.J.</titulocancion>
+            <duracion>2:27</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al04"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c11">
+            <titulocancion>This is the Carter</titulocancion>
+            <duracion>4:31</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al04"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c12">
+            <titulocancion>White America</titulocancion>
+            <duracion>5:24</duracion>
+            <artistasid>
+                <artistaid id="a01"/>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al05"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c13">
+            <titulocancion>Soldier</titulocancion>
+            <duracion>3:46</duracion>
+            <artistasid>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al05"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c14">
+            <titulocancion>Say What You Say</titulocancion>
+            <duracion>5:10</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al05"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c15">
+            <titulocancion>3 a.m.</titulocancion>
+            <duracion>5:19</duracion>
+            <artistasid>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al06"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c16">
+            <titulocancion>Medicine Ball</titulocancion>
+            <duracion>3:57</duracion>
+            <artistasid>
+                <artistaid id="a02"/>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al06"/>
+            </albumesid>
+        </cancion>
+        <cancion id="c17">
+            <titulocancion>Beautiful</titulocancion>
+            <duracion>6:32</duracion>
+            <artistasid>
+                <artistaid id="a03"/>
+            </artistasid>
+            <albumesid>
+                <albumid id="al06"/>
+            </albumesid>
+        </cancion>
+    </canciones>
+    <albumes>
+        <album id="al01">
+            <tituloalbum>Freedom</tituloalbum>
+            <descripcionalbum>Freedom (Libertad) es el tercer álbum de estudio del cantante senegalés de hip hop Akon.
+			Fue lanzado el 2 de diciembre de 2008 a nivel mundial. En un principio este nuevo trabajo llevaría el nombre de “Acquitted”, pero después de dialogar con el personal de marketing y con los superiores de Akon, le nombraron “Freedom” que en castellano significa “Libertad”.
+			Con este cambio también acompañaron otra faceta musical totalmente distinta al sonido que ya se conocia. De acuerdo al rapero, este disco propone un cambio totalmente radical, aunque sus dos primeros singles promociónales no lo expresen así, según Akon su público y fans se habían acostumbrado al sonido de su hit “Konvict” (Convicto), por lo que en esta producción decidieron proponer algo totalmente diferente.
+			El primer single, el muy rítmico tema Right Now (Na Na Na), Akon se apuntó una fuerte victoria. Le siguió el lanzamiento, apenas dos semanas después, de la canción I´m So Paid, en la que Akon comparte créditos con el popular Lil Wayne y con Young Jeezy. El pasado 20 de diciembre, este tema ocupaba el lugar 31 del Top 100 de la Billboard.
+			</descripcionalbum>
+            <anio_publicacion>2008</anio_publicacion>
+            <sello_discografico>Konvict Muzik, Island, Universal Motown</sello_discografico>
+            <url_imagen>https://upload.wikimedia.org/wikipedia/en/0/0a/AkonFreedom.PNG</url_imagen>
+            <artistasid>
+                <artistaid id="a01"/>
+            </artistasid>
+        </album>
+        <album id="al02">
+            <tituloalbum>Konvicted</tituloalbum>
+            <descripcionalbum>Konvicted es el segundo álbum musical del cantante de Hip Hop Akon. Fue lanzado originalmente en noviembre de 2006. El álbum incluye pistas grabadas con Eminem, Snoop Dog, Styles P (quien previamente había colaborado con Akon en Locked Up) y T-Pain (quien después grabó Bartender con Akon). La edición platino de lujo fue lanzada el 28 de agosto de 2007 con tres nuevas canciones, incluyendo el sencillo Sorry, Blame It on Me.
+			</descripcionalbum>
+            <anio_publicacion>2006</anio_publicacion>
+            <sello_discografico>Konvict Muzik, UpFront, SRC, Universal Motown</sello_discografico>
+            <url_imagen>https://upload.wikimedia.org/wikipedia/en/8/85/AKonvicted.jpg</url_imagen>
+            <artistasid>
+                <artistaid id="a01"/>
+            </artistasid>
+        </album>
+        <album id="al03">
+            <tituloalbum>I Am Not a Human Being</tituloalbum>
+            <descripcionalbum>I Am Not a Human Being es el octavo álbum de estudio del raperoestadounidense Lil Wayne, estrenado digitalmente el 27 de septiembre de 2010. La versión física fue lanzada el 12 de octubre de 2010. La producción del álbum estuvo a cargo de Lil Wayne, Boi-1da, Cool and Dre, StreetRunner, Noah 40 Shebib e Infamous, entre otros.
+			El álbum debutó en la 2ª posición delBillboard Hot 200, basándose solo en las ventas digitales en su primera semana. Tras su lanzamiento físico, las ventas subieron y llegó a la cima de la lista, convirtiéndose en el segundo álbum número 1 en EEUU de Lil Wayne.
+			</descripcionalbum>
+            <anio_publicacion>2010</anio_publicacion>
+            <sello_discografico>Young Money, Cash Money, Universal Motown</sello_discografico>
+            <url_imagen>http://upload.wikimedia.org/wikipedia/en/1/13/ImNotAHumanBeing.png</url_imagen>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+        </album>
+        <album id="al04">
+            <tituloalbum>Tha Carter</tituloalbum>
+            <descripcionalbum>Tha Carter es el cuarto álbum de estudio del rapero estadounidense Lil Wayne, estrenado el 29 de junio de 2004 por Cash Money y Universal Records.
+			El álbum fue el último en contar con la colaboración del productor Mannie Fresh, debido a su salida de la discográfica. El nombre del álbum se refiere al apellido de Lil Wayne. 
+			</descripcionalbum>
+            <anio_publicacion>2004</anio_publicacion>
+            <sello_discografico>Cash Money, Universal Recrods</sello_discografico>
+            <url_imagen>https://upload.wikimedia.org/wikipedia/en/d/d8/Lil_Wayne_-_Tha_Carter.jpg</url_imagen>
+            <artistasid>
+                <artistaid id="a02"/>
+            </artistasid>
+        </album>
+        <album id="al05">
+            <tituloalbum>The Eminem Show</tituloalbum>
+            <descripcionalbum>The Eminem Show es el cuarto álbum de estudio de Eminem y tercero tras firmar por Aftermath, lanzado en 2002. Fue el segundo álbum musical más vendido ese año en todo el mundo con 19 millones de copias, el primer sencillo, y el más exitoso, fue Without Me.
+			En 2007, la National Association of Recording Merchandisers y el Salón de la Fama del Rock lo colocaron en el puesto número #63 en su lista de Los 200 álbumes definitivos que todo amante de la música debería tener.
+			</descripcionalbum>
+            <anio_publicacion>2002</anio_publicacion>
+            <sello_discografico>Aftermath, Interscope</sello_discografico>
+            <url_imagen>https://upload.wikimedia.org/wikipedia/en/3/35/The_Eminem_Show.jpg</url_imagen>
+            <artistasid>
+                <artistaid id="a03"/>
+            </artistasid>
+        </album>
+        <album id="al06">
+            <tituloalbum>Relapse</tituloalbum>
+            <descripcionalbum>Relapse (Recaída), es el título del sextoálbum de estudio del rapero Eminem, el cual salió al mercado el 15 de mayo de2009. Durante un tiempo tuvo algunos posibles nombres el disco dados por los artistas más cercanos a este, incluyendoKing Mathers y The Empact, pero Eminem dijo que el título sería Relapse en un evento por Shade 45 el 15 de octubre de 2008. En tan sólo su primera semana de vida, vendió mas de 1 millón copias, alcanzando así las expectativas de lo que seria el triunfal y esperado regreso del rapero.
+			Quien dio la declaración sobre este disco fue 50 Cent para un diario local en que confirmó que Eminem se encontraba en el estudio de grabación preparando su nuevo álbum. En la portada del disco podemos ver la imagen de la cara de Eminem formada por cientos de pastillas y una etiqueta en forma de receta.
+			</descripcionalbum>
+            <anio_publicacion>2009</anio_publicacion>
+            <sello_discografico>Aftermath, Interscope, Shady Records, Web</sello_discografico>
+            <url_imagen>https://upload.wikimedia.org/wikipedia/en/4/42/Relapse_%28album%29.jpg</url_imagen>
+            <artistasid>
+                <artistaid id="a03"/>
+            </artistasid>
+        </album>
+    </albumes>
+</basededatos>

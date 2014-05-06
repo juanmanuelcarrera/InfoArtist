@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+    <xs:complexType name="artista">
+    	<xs:sequence>
+    		<xs:element name="nombre_artistico" type="xs:string"></xs:element>
+    		<xs:element name="biografia" type="xs:string"></xs:element>
+    		<xs:element name="descripcionartista" type="xs:string"></xs:element>
+    	</xs:sequence>
+    	<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="artistas">
+    	<xs:sequence>
+    		<xs:element name="artista" type="artista" maxOccurs="unbounded" minOccurs="1"></xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="album">
+    	<xs:sequence>
+    		<xs:element name="tituloalbum" type="xs:string"></xs:element>
+			<xs:element name="descripcionalbum" type="xs:string"></xs:element>
+    		<xs:element name="anio_publicacion" type="xs:integer"></xs:element>
+    		<xs:element name="sello_discografico" type="xs:string"></xs:element>
+    		<xs:element name="url_imagen" type="xs:string"></xs:element>
+    		<xs:element name="artistasid" type="artistasid"></xs:element>
+    	</xs:sequence>
+    	<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="albumes">
+    	<xs:sequence>
+    		<xs:element name="album" type="album" maxOccurs="unbounded"
+    			minOccurs="1">
+    		</xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="cancion">
+    	<xs:sequence>
+    		<xs:element name="titulocancion" type="xs:string"></xs:element>
+    		<xs:element name="duracion" type="xs:string"></xs:element>
+    		<xs:element name="artistasid" type="artistasid"></xs:element>
+    		<xs:element name="albumesid" type="albumesid"></xs:element>
+    	</xs:sequence>
+    	<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="canciones">
+    	<xs:sequence>
+    		<xs:element name="cancion" type="cancion" maxOccurs="unbounded" minOccurs="1"></xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="basededatos" type="basededatos"></xs:element>
+    
+		<xs:complexType name="artistasid">
+    	<xs:sequence>
+    		<xs:element name="artistaid" type="artistaid" maxOccurs="unbounded" minOccurs="1"></xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+	
+	<xs:complexType name="artistaid">
+    	<xs:sequence>
+    	</xs:sequence>
+		<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+	
+	<xs:complexType name="albumesid">
+    	<xs:sequence>
+    		<xs:element name="albumid" type="albumid" maxOccurs="unbounded" minOccurs="1"></xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+	
+	<xs:complexType name="albumid">
+    	<xs:sequence>
+    	</xs:sequence>
+		<xs:attribute name="id" type="xs:string"></xs:attribute>
+    </xs:complexType>
+	
+    <xs:complexType name="basededatos">
+    	<xs:sequence>
+    		<xs:element name="artistas" type="artistas"></xs:element>
+    		<xs:element name="canciones" type="canciones"></xs:element>
+			<xs:element name="albumes" type="albumes"></xs:element>
+    	</xs:sequence>
+    </xs:complexType>
+</xs:schema>

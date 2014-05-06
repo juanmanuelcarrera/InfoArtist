@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT basededatos (artistas, canciones, albumes)>
+
+<!ELEMENT artistas (artista+)>
+<!ELEMENT artista (nombre_artistico, biografia, descripcionartista)>
+<!ELEMENT nombre_artistico (#PCDATA)>
+<!ELEMENT biografia (#PCDATA)>
+<!ELEMENT descripcionartista (#PCDATA)>
+<!ATTLIST artista id ID #REQUIRED>
+
+<!ELEMENT canciones (cancion+)>
+<!ELEMENT cancion (titulocancion, duracion, artistasid, albumesid)>
+<!ELEMENT titulocancion (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT artistasid (artistaid+)>
+<!ELEMENT albumesid (albumid+)>
+<!ELEMENT artistaid EMPTY>
+<!ELEMENT albumid EMPTY>
+<!ATTLIST artistaid id IDREF #REQUIRED>
+<!ATTLIST albumid id IDREF #REQUIRED>
+<!ATTLIST cancion id ID #REQUIRED>
+
+<!ELEMENT albumes (album+)>
+<!ELEMENT album (tituloalbum, descripcionalbum, anio_publicacion, sello_discografico, url_imagen, artistasid)>
+<!ELEMENT tituloalbum (#PCDATA)>
+<!ELEMENT descripcionalbum (#PCDATA)>
+<!ELEMENT anio_publicacion (#PCDATA)>
+<!ELEMENT sello_discografico (#PCDATA)>
+<!ELEMENT url_imagen (#PCDATA)>
+<!ATTLIST album id ID #REQUIRED>
+
